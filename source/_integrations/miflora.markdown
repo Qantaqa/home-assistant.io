@@ -1,3 +1,8 @@
+
+WARNING: As of HA 2022.07 this integration stopped working. See breaking changes in releasenotes. 
+https://www.home-assistant.io/blog/2022/07/06/release-20227/#breaking-changes
+
+
 ---
 title: Mi Flora
 description: Instructions on how to integrate MiFlora BLE plant sensor with Home Assistant.
